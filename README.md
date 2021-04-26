@@ -12,7 +12,7 @@ Simple widget that can be embedded on a web page. Purpose is to convert numbers 
 
 ## Run
 
-Intalling all dependencies for server.
+Intalling all dependencies.
 
 ```
 npm install
